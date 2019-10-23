@@ -1,0 +1,19 @@
+---
+title: "Lab 10"
+author: "Kizitor Chukwuma"
+date: "10/23/2019"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Task 1
+```{r}
+getwd()
+```
+
